@@ -1,0 +1,348 @@
+.bg-container {
+    background-color: #cccada;
+}
+
+#nav-logo {
+    font-style: italic;
+    font-size: 34px;
+    padding: 10px;
+    color: #e2d3f4;
+    letter-spacing: 3px;
+}
+
+#nav-links {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+    margin-left: 30px;
+}
+
+#nav-toggler {
+    background-color: #ffffff;
+}
+
+.image {
+    height:450px;
+    border-radius: 16px;
+    margin-top: 190px;
+    margin-bottom: 165px;
+    
+}
+
+.heading_name {
+   
+    font-size: 25px;
+    font-weight: bold;
+    color: #45054ac5;
+    margin-top: 10px;
+}
+
+.span-name-heading {
+    font-size: 31px;
+    font-weight: bold;
+    color: #5843b8;
+    font-style: italic;
+}
+
+
+.heading_name-2 {
+   
+    font-size: 18px;
+    font-weight: bold;
+    color: #45054ac5;
+    margin-top: 10px;
+}
+
+.span-name-heading-2 {
+    font-size: 21px;
+    font-weight: bold;
+    color: #5843b8;
+    font-style: italic;
+}
+
+
+.heading_tittle {
+   
+    font-size: 43px;
+    font-weight: 600;
+    color: black;
+}
+
+
+.heading_tittle-2 {
+   
+    font-size: 36px;
+    font-weight: 600;
+    color: black;
+}
+
+.profile-description {
+    font-size: 18px;
+    font-weight: 630;
+    color: #6b7580;
+}
+
+.about_me_button {
+    font-family: "Roboto";
+    height: 45px;
+    width: 140px;
+    background-color: #5843b8;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 13px;
+
+}
+
+
+.aboutme-image {
+    height: 450px;
+    width: 100%;
+   padding-top: 8px;
+   border-radius: 16px;
+ 
+}
+
+.about-me-heading {
+    font-size: 43px;
+    font-weight: 700;
+    color: black;
+}
+
+.about-me-para {
+    
+    font-size: 21px;
+    font-weight: 500;
+    color: #6b7580;
+}
+
+.about-me-profile-description {
+    font-size: 19px;
+    font-weight: 500;
+    color: #4f6073;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.education-heading {
+    font-size: 32px;
+    font-weight: 700;
+    color: black;
+    margin-top: 15px;
+}
+
+.institute-heading {
+    font-size: 22px;
+    font-weight: 700;
+    color: rgb(73, 24, 119);
+    margin-top: 15px;
+}
+
+.course-description {
+    font-size: 16px;
+    font-weight: 500;
+    color: #323940;
+    
+}
+
+.about-me-stats-h {
+    font-size: 38px;
+    font-weight: 700;
+    color: black;
+    margin-top: 15px;
+}
+
+.about-me-stats-description {
+    font-size: 18px;
+    font-weight: 500;
+    color: #4f6073;
+}
+
+.cv-button {
+    font-family: "Roboto";
+    height: 45px;
+    width: 140px;
+    background-color: #5843b8;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.link-cv {
+    color: #ffffff;
+}
+
+
+.skill-card {
+    background-color: #c6daf0;
+    border-radius: 16px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.skill-image {
+    height: 60px;
+    width: 60px;
+}
+
+.skill-heading {
+    font-size: 26px;
+    font-weight: 700;
+    color: #0c2a4b;
+    margin-top: 10px;
+}
+
+
+.project-card {
+    background-color: #264868;
+    border-radius: 16px;
+}
+
+.card-h-1 {
+    font-size: 21px;
+    font-weight: bold;
+    color: #9aa5b1;
+}
+
+.card-h-2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.card-para {
+    font-size: 27px;
+    font-weight: 500px;
+    color: #9aa5b1;
+}
+
+.link-project {
+    font-size: 17px;
+    font-weight: 300px;
+    color: #cced00;
+}
+
+
+
+
+.service-h {
+    font-size: 43px;
+    font-weight: 700;
+    color:black;
+}
+
+.what-i-do-h {
+    font-size: 31px;
+    font-weight: 600;
+    color: #5843b8;
+}
+
+.service-card {
+    background-color: #264868;
+    border-radius: 10px;
+}
+
+.card-image {
+    height: 50px;
+    width: 50px;
+}
+
+.card-h {
+    font-size: 38px;
+    font-weight: bold;
+    color: rgb(188, 183, 207);
+}
+
+.card-para-service {
+    font-size: 28px;
+    font-weight: 500px;
+    color: white;
+}
+
+
+
+
+
+.stats-section {
+    background-color: #b1c8e1;
+}
+
+
+
+.content-card {
+    background-color: rgb(233, 214, 251);
+    padding-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+.content-card-image {
+    height: 500px;
+
+}
+
+.content-card-heading {
+    font-size: 38px;
+    font-weight: bold;
+    color: rgb(95, 63, 113);
+}
+
+.content-card-description {
+    font-size: 21px;
+    font-weight: 600;
+    color: #4f6073;
+}
+
+
+
+.footer-section {
+    background-color: #beb8eb;
+}
+
+.footer-section-heading {
+    font-size: 38px;
+    font-weight: bold;
+    color: rgb(71, 45, 86);
+}
+
+
+.footer-section-description {
+    font-size: 21px;
+    font-weight: 600;
+    color: #4f6073;
+}
+
+.icon {
+    font-size: 38px;
+    margin-right: 30px;
+}
+
+.span-text {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 10px;
+    margin-top: 23px;
+
+    
+}
+
+.hr-line {
+    background-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.copyr-icon {
+    font-size: 19px;
+}
+
+.copy-r-text {
+    font-size: 17px;
+    font-weight: 500;
+}
